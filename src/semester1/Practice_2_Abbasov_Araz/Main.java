@@ -45,7 +45,6 @@ public class Main {
         final double GRAVITY = 9.81;
         final int DAYS_IN_WEEK = 7;
         final String UNIVERSITY_NAME = "Львівська Політехніка";
-        // GRAVITY = 10.0;
         System.out.println("Gravity: " + GRAVITY);
         System.out.println("Days in week: " + DAYS_IN_WEEK);
         System.out.println("University name: " + UNIVERSITY_NAME);
