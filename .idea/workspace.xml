@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40b9fcac-ebc4-46c9-aa0d-eabb286a2817" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/semester1/Practice_2_Abbasov_Araz/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semester1/Practice_2_Abbasov_Araz/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Arazrr&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Arazrr/AbbasovAraz_JAVA.git&quot;,
+    &quot;accountId&quot;: &quot;9a5303d0-4b04-4b5b-bec8-be7a845a52ef&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0000000048213866" />
+      <entry key="S30" value="1.0118781500578862" />
+      <entry key="S60" value="1.6350445517096936" />
+      <entry key="M2" value="6.524370499021562" />
+      <entry key="M5" value="23.793860031964588" />
+      <entry key="M10" value="40.28205850420046" />
+      <entry key="M15" value="50.53634756619091" />
+      <entry key="M30" value="73.96378448631228" />
+      <entry key="H1" value="118.17474523278797" />
+      <entry key="H2" value="203.77402286055357" />
+      <entry key="H4" value="322.7015557063595" />
+      <entry key="D1" value="538.3641463902782" />
+      <entry key="W1" value="594.8293204989351" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.4306368668496737E-269" />
+      <entry key="S2" value="6.15015344390448E-68" />
+      <entry key="S5" value="1.3169319580435697E-27" />
+      <entry key="S10" value="3.96651974414113E-14" />
+      <entry key="S30" value="5.6147234542384676E-5" />
+      <entry key="S60" value="0.016142543666136933" />
+      <entry key="M2" value="0.35336484344713276" />
+      <entry key="M5" value="2.5482022321943494" />
+      <entry key="M10" value="5.113841467050071" />
+      <entry key="M15" value="6.653504228120951" />
+      <entry key="M30" value="9.758348283546706" />
+      <entry key="H1" value="14.699800779696178" />
+      <entry key="H2" value="22.630090422169026" />
+      <entry key="H4" value="31.95737166138768" />
+      <entry key="D1" value="46.74489050100473" />
+      <entry key="W1" value="50.35765389429553" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.0025416833114100257" />
+      <entry key="MS500" value="0.3027082709876385" />
+      <entry key="S2" value="0.7417474669205609" />
+      <entry key="S5" value="0.8873652732644438" />
+      <entry key="S10" value="0.9420006806184525" />
+      <entry key="S30" value="0.9920278453422534" />
+      <entry key="S60" value="1.633681497669813" />
+      <entry key="M2" value="6.830306525991886" />
+      <entry key="M5" value="26.252791234138826" />
+      <entry key="M10" value="45.31390467232746" />
+      <entry key="M15" value="57.120067467667056" />
+      <entry key="M30" value="83.67125385109827" />
+      <entry key="H1" value="132.83499710701446" />
+      <entry key="H2" value="226.37197241364004" />
+      <entry key="H4" value="354.6352038537318" />
+      <entry key="D1" value="585.1029899552452" />
+      <entry key="W1" value="645.1860362472024" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3L5Udj135QwqRmogvXxjxKqRi8p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Practice07_Main.executor": "Run",
+    "Application.Practice08_Main.executor": "Run",
+    "Application.Task1GeometryInheritance.executor": "Run",
+    "Application.Task2BankingHierarchy.executor": "Run",
+    "Application.Task2QuadraticEquation.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.editor",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10315.125" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40b9fcac-ebc4-46c9-aa0d-eabb286a2817" name="Changes" comment="" />
+      <created>1792743515603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792743515603</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
